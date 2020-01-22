@@ -1,3 +1,3 @@
 # Treni-i
 testejam veb
-izmainas 1
+izmainas
